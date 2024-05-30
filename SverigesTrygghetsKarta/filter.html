@@ -1,0 +1,85 @@
+<div class="main">
+  <div class="hero section-container">
+    <div class="max-width max-width-container">
+      <div class="hero1">
+        <div class="container1">
+          <div class="text-container">
+            <span class="text4">Se trygghetsbetyg på kartan</span>
+          </div>
+          <!-- filtrering -->
+          <h2 class="text8 Heading3">Trygghet</h2>
+          <p class="text1">Hur trygg känner du dig utomhus i området där du bor...</p>
+
+          <label for="trygghet" class="text1">Välj ett alternativ:</label>
+          <select id="trygghet" class="select">
+            <option value="">Välj ett alternativ...</option>
+            <option value="när det är mörkt">när det är mörkt ute?</option>
+            <option value="när det är ljust">när det är ljust ute?</option>
+          </select>
+
+          <label for="kön" class="text2">Medborgarnas kön:</label>
+          <select id="kön" class="select">
+            <option value="">Välj ett alternativ...</option>
+            <option value="Samtliga">Samtliga</option>
+            <option value="Män">Män</option>
+            <option value="Kvinnor">Kvinnor</option>
+          </select>
+
+          <label for="år" class="text2">År:</label>
+          <select id="år" class="select">
+            <option value="">Välj ett år...</option>
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+          </select>
+
+          <button class="button" id="searchButton" disabled>SÖK</button>
+        </div>
+
+        <div id="resultat"></div>
+
+        <div id="container" class="image" style="margin-top: 70px;">
+          <div id="visualization"></div>
+        </div>
+
+        <!-- färgbeskrivnings ruta -->
+        <div id="myModal" class="modal">
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <p><strong>Trygghetsfärger:</strong></p>
+            <div>
+              <span class="color-box" style="background-color: #364aab;"></span> Högre Trygghet
+            </div>
+            <div>
+              <span class="color-box" style="background-color: #b8c2ef;"></span> Lägre Trygghet
+            </div>
+            <div>
+              <span class="color-box" style="background-color: gray;"></span> Ingen Information
+            </div>
+          </div>
+        </div>        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+        <!-- så att man inte kan söka om man inte har fyllt i alla selects -->
+<script>
+  const selects = document.querySelectorAll('.select');
+  const searchButton = document.getElementById('searchButton');
+
+  function checkSelects() {
+    let allSelected = true;
+    selects.forEach(select => {
+      if (select.value === '') {
+        allSelected = false;
+      }
+    });
+    searchButton.disabled = !allSelected;
+  }
+
+  selects.forEach(select => {
+    select.addEventListener('change', checkSelects);
+  });
+</script>

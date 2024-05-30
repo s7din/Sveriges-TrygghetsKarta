@@ -1,0 +1,1640 @@
+[
+    {
+        "year": "2023",
+        "gender": "Samtliga",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 60.6
+            },
+            {
+                "region": "Uppsala län",
+                "score": 82
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 72
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 65.9
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 84.8
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 84.2
+            },
+            {
+                "region": "Kalmar län",
+                "score": 62.1
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 75.5
+            },
+            {
+                "region": "Skåne län",
+                "score": 66.1
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 80.6
+            },
+            {
+                "region": "Värmlands län",
+                "score": 103.6
+            },
+            {
+                "region": "Örebro län",
+                "score": 75.9
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 72.3
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 109.7
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 81
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 86.9
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 120.2
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 123.1
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 123.3
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Samtliga",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 52.7
+            },
+            {
+                "region": "Uppsala län",
+                "score": 98.6
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 77.8
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 78.2
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 95
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 67.2
+            },
+            {
+                "region": "Kalmar län",
+                "score": 74
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 67.3
+            },
+            {
+                "region": "Skåne län",
+                "score": 65.7
+            },
+            {
+                "region": "Hallands län",
+                "score": 89.1
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 78.2
+            },
+            {
+                "region": "Värmlands län",
+                "score": 98.7
+            },
+            {
+                "region": "Örebro län",
+                "score": 76.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 66.5
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 103.8
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 75.2
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 100.5
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 132.9
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 108.8
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 97.3
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Samtliga",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 57.1
+            },
+            {
+                "region": "Uppsala län",
+                "score": 78.2
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 63.2
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 74.9
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 75.3
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 60.5
+            },
+            {
+                "region": "Kalmar län",
+                "score": 84.3
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 66
+            },
+            {
+                "region": "Skåne län",
+                "score": 50.2
+            },
+            {
+                "region": "Hallands län",
+                "score": 90.3
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 64.7
+            },
+            {
+                "region": "Värmlands län",
+                "score": 102.3
+            },
+            {
+                "region": "Örebro län",
+                "score": 59
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 53.6
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 100.3
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 71.6
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 93.6
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 105.2
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 101.8
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 105.4
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "gender": "Män",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 71.1
+            },
+            {
+                "region": "Uppsala län",
+                "score": 103.1
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 91.7
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 96.5
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 104.1
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 100.3
+            },
+            {
+                "region": "Kalmar län",
+                "score": 81.1
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 99.7
+            },
+            {
+                "region": "Skåne län",
+                "score": 81.9
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 100.7
+            },
+            {
+                "region": "Värmlands län",
+                "score": 131.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 100.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 91.7
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 133
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 101.2
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 115.4
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 133.7
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 142.5
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 147.1
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Män",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 78.9
+            },
+            {
+                "region": "Uppsala län",
+                "score": 133.1
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 97
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 102.2
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 121.7
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 86.1
+            },
+            {
+                "region": "Kalmar län",
+                "score": 81.7
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 86
+            },
+            {
+                "region": "Skåne län",
+                "score": 87.8
+            },
+            {
+                "region": "Hallands län",
+                "score": 105.2
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 90.5
+            },
+            {
+                "region": "Värmlands län",
+                "score": 122.2
+            },
+            {
+                "region": "Örebro län",
+                "score": 91.1
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 77
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 118.6
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 91.4
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 124.9
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 153.2
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 130.4
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 129
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Män",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 75.6
+            },
+            {
+                "region": "Uppsala län",
+                "score": 99.4
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 71.2
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 87.7
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 89.9
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 78.8
+            },
+            {
+                "region": "Kalmar län",
+                "score": 110.8
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 87.1
+            },
+            {
+                "region": "Skåne län",
+                "score": 72.3
+            },
+            {
+                "region": "Hallands län",
+                "score": 125.1
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 83.6
+            },
+            {
+                "region": "Värmlands län",
+                "score": 123.2
+            },
+            {
+                "region": "Örebro län",
+                "score": 78.3
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 68.1
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 110.9
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 94.2
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 120.9
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 132.7
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 125.8
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 125.3
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "gender": "Kvinnor",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 50.1
+            },
+            {
+                "region": "Uppsala län",
+                "score": 61.1
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 51.7
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 34.2
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 64.8
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 67.5
+            },
+            {
+                "region": "Kalmar län",
+                "score": 42.4
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 50
+            },
+            {
+                "region": "Skåne län",
+                "score": 50.6
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 60.3
+            },
+            {
+                "region": "Värmlands län",
+                "score": 73.9
+            },
+            {
+                "region": "Örebro län",
+                "score": 51.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 52
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 86
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 61.4
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 58.5
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 106.9
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 102.6
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 98
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Kvinnor",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 27.3
+            },
+            {
+                "region": "Uppsala län",
+                "score": 63.1
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 58.5
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 54.1
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 68.6
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 47.4
+            },
+            {
+                "region": "Kalmar län",
+                "score": 66.3
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 48.2
+            },
+            {
+                "region": "Skåne län",
+                "score": 43.7
+            },
+            {
+                "region": "Hallands län",
+                "score": 73.1
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 65.4
+            },
+            {
+                "region": "Värmlands län",
+                "score": 74.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 62.4
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 55.7
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 88.6
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 58.9
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 75.5
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 116.9
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 86.9
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 63.5
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Kvinnor",
+        "condition": "när det är mörkt",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 38.9
+            },
+            {
+                "region": "Uppsala län",
+                "score": 57.5
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 55.1
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 61.8
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 59.9
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 40.8
+            },
+            {
+                "region": "Kalmar län",
+                "score": 57
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 44.2
+            },
+            {
+                "region": "Skåne län",
+                "score": 28.4
+            },
+            {
+                "region": "Hallands län",
+                "score": 55.8
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 45.4
+            },
+            {
+                "region": "Värmlands län",
+                "score": 80.4
+            },
+            {
+                "region": "Örebro län",
+                "score": 39.9
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 39.4
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 89.2
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 48.5
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 65.8
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 77
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 78.3
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 84.7
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "gender": "Samtliga",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 146.1
+            },
+            {
+                "region": "Uppsala län",
+                "score": 159.1
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 151.3
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 153.4
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 155.5
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 156.1
+            },
+            {
+                "region": "Kalmar län",
+                "score": 150.1
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 155.1
+            },
+            {
+                "region": "Skåne län",
+                "score": 151.5
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 155.3
+            },
+            {
+                "region": "Värmlands län",
+                "score": 172.5
+            },
+            {
+                "region": "Örebro län",
+                "score": 154.4
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 151.6
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 173.9
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 155.7
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 166.7
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 180
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 177.6
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 178.9
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Samtliga",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 150.7
+            },
+            {
+                "region": "Uppsala län",
+                "score": 170.2
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 155.6
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 163.7
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 164.2
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 151.6
+            },
+            {
+                "region": "Kalmar län",
+                "score": 159
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 150.5
+            },
+            {
+                "region": "Skåne län",
+                "score": 150.2
+            },
+            {
+                "region": "Hallands län",
+                "score": 167.7
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 159.9
+            },
+            {
+                "region": "Värmlands län",
+                "score": 169.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 163.4
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 152.7
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 166.9
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 155.8
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 167.8
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 175.7
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 174.4
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 175
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Samtliga",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 146.8
+            },
+            {
+                "region": "Uppsala län",
+                "score": 162
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 148.2
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 154.7
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 159.2
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 147.8
+            },
+            {
+                "region": "Kalmar län",
+                "score": 161.9
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 146.7
+            },
+            {
+                "region": "Skåne län",
+                "score": 142.8
+            },
+            {
+                "region": "Hallands län",
+                "score": 167.2
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 153.1
+            },
+            {
+                "region": "Värmlands län",
+                "score": 169.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 150.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 150.8
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 165.9
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 155
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 164.5
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 173.1
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 176.3
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 172
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "gender": "Män",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 146.8
+            },
+            {
+                "region": "Uppsala län",
+                "score": 160.7
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 153.6
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 156.9
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 153.3
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 155.9
+            },
+            {
+                "region": "Kalmar län",
+                "score": 153.8
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 162
+            },
+            {
+                "region": "Skåne län",
+                "score": 151.9
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 158.9
+            },
+            {
+                "region": "Värmlands län",
+                "score": 177.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 166.2
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 152
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 179.5
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 157.7
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 168.9
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 178.1
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 179
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 185.3
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Män",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 148.2
+            },
+            {
+                "region": "Uppsala län",
+                "score": 171.8
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 158.8
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 169.3
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 169
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 145.5
+            },
+            {
+                "region": "Kalmar län",
+                "score": 150.9
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 150.2
+            },
+            {
+                "region": "Skåne län",
+                "score": 152
+            },
+            {
+                "region": "Hallands län",
+                "score": 166.3
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 160.3
+            },
+            {
+                "region": "Värmlands län",
+                "score": 175.6
+            },
+            {
+                "region": "Örebro län",
+                "score": 165.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 156.8
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 167.3
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 152.1
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 170.6
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 174.7
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 176.3
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 177.8
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Män",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 150.2
+            },
+            {
+                "region": "Uppsala län",
+                "score": 163.4
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 143.9
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 157.6
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 159.3
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 148.6
+            },
+            {
+                "region": "Kalmar län",
+                "score": 163.1
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 151.4
+            },
+            {
+                "region": "Skåne län",
+                "score": 145.2
+            },
+            {
+                "region": "Hallands län",
+                "score": 177.2
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 154.5
+            },
+            {
+                "region": "Värmlands län",
+                "score": 172.1
+            },
+            {
+                "region": "Örebro län",
+                "score": 155.5
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 150.2
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 167.3
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 154.8
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 169.3
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 178.8
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 182.7
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 175.3
+            }
+        ]
+    },
+    {
+        "year": "2023",
+        "gender": "Kvinnor",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 145.5
+            },
+            {
+                "region": "Uppsala län",
+                "score": 157.8
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 149.2
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 154.1
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 158.1
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 156.4
+            },
+            {
+                "region": "Kalmar län",
+                "score": 150.3
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 148
+            },
+            {
+                "region": "Skåne län",
+                "score": 151.2
+            },
+            {
+                "region": "Hallands län",
+                "score": 0
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 151.7
+            },
+            {
+                "region": "Värmlands län",
+                "score": 167.3
+            },
+            {
+                "region": "Örebro län",
+                "score": 146.3
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 162.1
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 172.1
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 158.1
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 167
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 181.9
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 180
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 172.9
+            }
+        ]
+    },
+    {
+        "year": "2022",
+        "gender": "Kvinnor",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 155.7
+            },
+            {
+                "region": "Uppsala län",
+                "score": 168.7
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 152.1
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 159.1
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 159.4
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 157.7
+            },
+            {
+                "region": "Kalmar län",
+                "score": 170.8
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 150.7
+            },
+            {
+                "region": "Skåne län",
+                "score": 148
+            },
+            {
+                "region": "Hallands län",
+                "score": 169.9
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 159.6
+            },
+            {
+                "region": "Värmlands län",
+                "score": 163.8
+            },
+            {
+                "region": "Örebro län",
+                "score": 167.7
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 155.3
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 166.2
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 159.4
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 164.9
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 180.5
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 173.7
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 172.1
+            }
+        ]
+    },
+    {
+        "year": "2021",
+        "gender": "Kvinnor",
+        "condition": "när det är ljust",
+        "data": [
+            {
+                "region": "Stockholms län",
+                "score": 149.2
+            },
+            {
+                "region": "Uppsala län",
+                "score": 160.6
+            },
+            {
+                "region": "Södermanlands län",
+                "score": 152.7
+            },
+            {
+                "region": "Östergötlands län",
+                "score": 155.6
+            },
+            {
+                "region": "Jönköpings län",
+                "score": 159.9
+            },
+            {
+                "region": "Kronobergs län",
+                "score": 147.1
+            },
+            {
+                "region": "Kalmar län",
+                "score": 161
+            },
+            {
+                "region": "Gotlands län",
+                "score": 0
+            },
+            {
+                "region": "Blekinge län",
+                "score": 141.9
+            },
+            {
+                "region": "Skåne län",
+                "score": 140.3
+            },
+            {
+                "region": "Hallands län",
+                "score": 158.6
+            },
+            {
+                "region": "Västra Götalands län",
+                "score": 151.6
+            },
+            {
+                "region": "Värmlands län",
+                "score": 166.7
+            },
+            {
+                "region": "Örebro län",
+                "score": 146
+            },
+            {
+                "region": "Västmanlands län",
+                "score": 151.1
+            },
+            {
+                "region": "Dalarnas län",
+                "score": 167.5
+            },
+            {
+                "region": "Gävleborgs län",
+                "score": 158.9
+            },
+            {
+                "region": "Västernorrlands län",
+                "score": 164.3
+            },
+            {
+                "region": "Jämtlands län",
+                "score": 168.4
+            },
+            {
+                "region": "Västerbottens län",
+                "score": 172.7
+            },
+            {
+                "region": "Norrbottens län",
+                "score": 169.2
+            }
+        ]
+    }
+]
